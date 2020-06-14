@@ -4,7 +4,7 @@
 
 
 
- <img src="./assets/vegPetBot.gif" alt="Gif" style="zoom:25%;" />                             ​                               <img src="./assets/whatsappBot.jpg" alt="whatsapp-bot" style="zoom:25%;" />
+![Watson](./assets/vegPetBot.jpg)                                              ![Twillio](./assets/whatsappBot.jpg)
 
 
 
